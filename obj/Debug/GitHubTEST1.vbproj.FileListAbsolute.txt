@@ -1,2 +1,11 @@
 C:\Users\TunaButuc\AppData\Local\Temporary Projects\GitHubTEST1\bin\Debug\GitHubTEST1.exe.config
 D:\I-SOFT Works\Projects\GitHubTEST1\GitHubTEST1\bin\Debug\GitHubTEST1.exe.config
+D:\I-SOFT Works\Projects\GitHubTEST1\GitHubTEST1\bin\Debug\GitHubTEST1.exe
+D:\I-SOFT Works\Projects\GitHubTEST1\GitHubTEST1\bin\Debug\GitHubTEST1.pdb
+D:\I-SOFT Works\Projects\GitHubTEST1\GitHubTEST1\bin\Debug\GitHubTEST1.xml
+D:\I-SOFT Works\Projects\GitHubTEST1\GitHubTEST1\obj\Debug\GitHubTEST1.Form1.resources
+D:\I-SOFT Works\Projects\GitHubTEST1\GitHubTEST1\obj\Debug\GitHubTEST1.Resources.resources
+D:\I-SOFT Works\Projects\GitHubTEST1\GitHubTEST1\obj\Debug\GitHubTEST1.vbproj.GenerateResource.Cache
+D:\I-SOFT Works\Projects\GitHubTEST1\GitHubTEST1\obj\Debug\GitHubTEST1.exe
+D:\I-SOFT Works\Projects\GitHubTEST1\GitHubTEST1\obj\Debug\GitHubTEST1.xml
+D:\I-SOFT Works\Projects\GitHubTEST1\GitHubTEST1\obj\Debug\GitHubTEST1.pdb
